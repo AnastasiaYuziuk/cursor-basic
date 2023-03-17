@@ -1,0 +1,10 @@
+.visual {
+    border-style: solid;
+    border-color: gray;
+    
+}
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: aqua;
+}
