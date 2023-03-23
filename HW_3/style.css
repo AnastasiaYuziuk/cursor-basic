@@ -9,32 +9,25 @@ body {
       color: #fff;
       border: 2px solid #0B2239;
     }
-    
     .banner p {
       margin: 0;
       padding: 20px;
       padding-right: 250px;
+      padding-left: 40px;
     }
-  
     .banner a {
      color: #4AD295;
-     width: 500px;
-     height: 20px;
-     padding-right: 60px;
-     padding-top: 40px;
-     padding-bottom: 40px;
+     width: 200px;
+     margin-right: 200px;
     }
-  
     .banner button {
       background-color: #4AD295;
       color: white;
       border-radius: 5px;
-      padding: 8px 10px;
-      padding-right: 100px;
-      padding-left: 100px;
+      padding: 10px;
+      margin-right: 40px;
+      width: 200px;
     }
-  
-  
     .bannertwo {
       display: flex;
       align-items: center;
@@ -61,16 +54,17 @@ body {
       background-color: white;
       color: black;
       border-radius: 15px;
-      padding: 8px 10px;
-      padding-right: 50px;
-      padding-left: 10px;
-      margin-right: 1000px;
-      margin-left: auto;
+      padding: 10px;
+      width: 500px;
     }
+    .bannerthree img {
+        margin-top: 15px;
+      }
     .bannerthree p {
       font-family: 'Times New Roman', Times, serif;
       text-align: justify;
       word-spacing: normal;
+      
     }
     .obut {
       background-color: rgba(227, 225, 225, 0.544);
@@ -79,6 +73,7 @@ body {
       border-radius: 6px;
       margin-left: 30px;
       border-style: none;
+      padding: 10px;
     }
     .tbut {
       background-color: rgb(235, 115, 135);
@@ -87,12 +82,7 @@ body {
       border-radius: 6px;
       margin-left: 20px;
       border-style: none;
-    }
-    .bannerthree img {
-      margin: auto;
-      padding: auto;
-      padding-right: 30px;
-      padding-left: 50px;
+      padding: 10px;
     }
     .colortext {
       color: red;
@@ -104,10 +94,7 @@ body {
       color: white;
       border-radius: 15px;
       padding: 8px 10px;
-      padding-right: 50px;
-      padding-left: 10px;
-      margin-right: 1000px;
-      margin-left: auto;
+      width: 500px;
     }
     .but {
       background-color: white;
@@ -115,8 +102,9 @@ body {
       margin: auto;
       border-radius: 6px;
       margin-left: 20px;
-      margin-right: 0,5px;
+      margin-right: 5px;
       border-style: none;
+      padding: 10px;
     }
     .colortext2 {
       color: orange;
@@ -131,11 +119,8 @@ body {
       background-color:#1C2540;
       color: white;
       border-radius: 5px;
-      padding: 8px 10px;
-      padding-right: 50px;
-      padding-left: 10px;
-      margin-right: 1000px;
-      margin-left: auto;
+      width: 360px;
+      padding: 10px;
     }
     .bannerfive p {
       font-family: 'Times New Roman', Times, serif;
@@ -146,19 +131,19 @@ body {
     .bannerfive button {
       background-color: #09B3AF;
       color: white;
-      margin-left: 200px;
-  
+      margin-left: 100px;
+      width: 80px;
+      border-style: none;
+      border-radius: 15px;
+      padding: 10px;
     }
      
     .bannersix {
       background-color: white;
       color: #687F8C;
       border-radius: 10px;
-      padding: 8px 10px;
-      padding-right: 50px;
-      padding-left: 10px;
-      margin-right: 1000px;
-      margin-left: auto;
+      padding: 10px;
+      width: 600px;
     }
     .psix {
       color: black;
@@ -167,28 +152,25 @@ body {
       border-radius: 10px;
       border-style: none;
       background-color: #56585944;
-      width: 150px;
+      width: 45%;
       padding: 10px;
-      margin-left: 30px;
+      margin-left: 10px;
     }
     .twob {
-      border-color: orange;
+      border-radius: 10px;
       background-color: #40C1A7;
       color: white;
-      border-radius: 0px;
-      width: 150px;
+      border-radius: 10px;
+      width: 45%;
       padding: 10px;
-      margin-left: 100px;
+      border-style: none;
+      margin-left: 30px;
     }
     .bannerseven {
       background-color: white;
       border-radius: 15px;
-      padding: 8px 10px;
-      padding-right: 50px;
-      padding-left: 10px;
-      margin-right: 1000px;
-      margin-left: auto;
-  
+      padding: 10px;
+      width: 300px;
     }
     .bannerseven h1 {
       color: #15295A;
@@ -200,7 +182,7 @@ body {
       font-family: 'Times New Roman', Times, serif;
     }
     .bannerseven button {
-      margin-left: 185px;
+      margin-left: 110px;
       border-radius: 15px;
       background-color: #4A7EFF;
       color: white;
@@ -213,11 +195,8 @@ body {
       background-color: white;
       color: black;
       border-radius: 0px;
-      padding: 8px 10px;
-      padding-right: 50px;
-      padding-left: 10px;
-      margin-right: 1000px;
-      margin-left: auto;
+      padding: 10px;
+      width: 400px;
     }
     .peight {
       text-align: center;
@@ -225,8 +204,8 @@ body {
     .twopeight {
      color: #6666FF;
      display: inline-block;
-     margin-left: 40px;
-     margin-top: 5px;
+     margin-left: 10px;
+
     }
     .bannereight button {
       background-color: #6666FF;
@@ -236,5 +215,4 @@ body {
       border-radius: 10px;
       border-style: none;
       margin-left: 200px;
-      margin-top: 5px;
     }
