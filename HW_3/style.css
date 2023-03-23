@@ -1,0 +1,240 @@
+body {
+    background-color: lightgray;
+  }
+  .banner {
+      display: flex;
+      align-items: center;
+      padding: 5px;
+      background-color: #0B2239;
+      color: #fff;
+      border: 2px solid #0B2239;
+    }
+    
+    .banner p {
+      margin: 0;
+      padding: 20px;
+      padding-right: 250px;
+    }
+  
+    .banner a {
+     color: #4AD295;
+     width: 500px;
+     height: 20px;
+     padding-right: 60px;
+     padding-top: 40px;
+     padding-bottom: 40px;
+    }
+  
+    .banner button {
+      background-color: #4AD295;
+      color: white;
+      border-radius: 5px;
+      padding: 8px 10px;
+      padding-right: 100px;
+      padding-left: 100px;
+    }
+  
+  
+    .bannertwo {
+      display: flex;
+      align-items: center;
+      padding: 5px;
+      background-color: black;
+      color: #fff;
+      border: 2px solid black;
+      align-items: center;
+    }
+    .ptwo {
+      color: white;
+      text-align: center;
+      margin: 0;
+      padding: 20px;
+      font-family: 'Times New Roman', Times, serif;
+    }
+    .pic {
+      justify-content: center;
+      padding-left: 300px;
+    }
+  
+    .bannerthree {
+      display: flex;
+      background-color: white;
+      color: black;
+      border-radius: 15px;
+      padding: 8px 10px;
+      padding-right: 50px;
+      padding-left: 10px;
+      margin-right: 1000px;
+      margin-left: auto;
+    }
+    .bannerthree p {
+      font-family: 'Times New Roman', Times, serif;
+      text-align: justify;
+      word-spacing: normal;
+    }
+    .obut {
+      background-color: rgba(227, 225, 225, 0.544);
+      color: black;
+      margin: auto;
+      border-radius: 6px;
+      margin-left: 30px;
+      border-style: none;
+    }
+    .tbut {
+      background-color: rgb(235, 115, 135);
+      color: white;
+      margin: auto;
+      border-radius: 6px;
+      margin-left: 20px;
+      border-style: none;
+    }
+    .bannerthree img {
+      margin: auto;
+      padding: auto;
+      padding-right: 30px;
+      padding-left: 50px;
+    }
+    .colortext {
+      color: red;
+    }
+  
+    .bannerfour {
+      display: flex;
+      background-color:#26262B;
+      color: white;
+      border-radius: 15px;
+      padding: 8px 10px;
+      padding-right: 50px;
+      padding-left: 10px;
+      margin-right: 1000px;
+      margin-left: auto;
+    }
+    .but {
+      background-color: white;
+      color: black;
+      margin: auto;
+      border-radius: 6px;
+      margin-left: 20px;
+      margin-right: 0,5px;
+      border-style: none;
+    }
+    .colortext2 {
+      color: orange;
+    }
+    .bannerfour p {
+      font-family: 'Times New Roman', Times, serif;
+      text-align: justify;
+      word-spacing: normal;
+    }
+  
+    .bannerfive {
+      background-color:#1C2540;
+      color: white;
+      border-radius: 5px;
+      padding: 8px 10px;
+      padding-right: 50px;
+      padding-left: 10px;
+      margin-right: 1000px;
+      margin-left: auto;
+    }
+    .bannerfive p {
+      font-family: 'Times New Roman', Times, serif;
+      text-align: justify;
+      word-spacing: normal;
+      display: inline-block;
+    }
+    .bannerfive button {
+      background-color: #09B3AF;
+      color: white;
+      margin-left: 200px;
+  
+    }
+     
+    .bannersix {
+      background-color: white;
+      color: #687F8C;
+      border-radius: 10px;
+      padding: 8px 10px;
+      padding-right: 50px;
+      padding-left: 10px;
+      margin-right: 1000px;
+      margin-left: auto;
+    }
+    .psix {
+      color: black;
+    }
+    .oneb {
+      border-radius: 10px;
+      border-style: none;
+      background-color: #56585944;
+      width: 150px;
+      padding: 10px;
+      margin-left: 30px;
+    }
+    .twob {
+      border-color: orange;
+      background-color: #40C1A7;
+      color: white;
+      border-radius: 0px;
+      width: 150px;
+      padding: 10px;
+      margin-left: 100px;
+    }
+    .bannerseven {
+      background-color: white;
+      border-radius: 15px;
+      padding: 8px 10px;
+      padding-right: 50px;
+      padding-left: 10px;
+      margin-right: 1000px;
+      margin-left: auto;
+  
+    }
+    .bannerseven h1 {
+      color: #15295A;
+      text-align: center;
+    }
+    .bannerseven p {
+      color: #15295A;
+      text-align: center;
+      font-family: 'Times New Roman', Times, serif;
+    }
+    .bannerseven button {
+      margin-left: 185px;
+      border-radius: 15px;
+      background-color: #4A7EFF;
+      color: white;
+      border-style: none;
+      padding: 10px;
+      width: 80px;
+    }
+  
+    .bannereight {
+      background-color: white;
+      color: black;
+      border-radius: 0px;
+      padding: 8px 10px;
+      padding-right: 50px;
+      padding-left: 10px;
+      margin-right: 1000px;
+      margin-left: auto;
+    }
+    .peight {
+      text-align: center;
+    }
+    .twopeight {
+     color: #6666FF;
+     display: inline-block;
+     margin-left: 40px;
+     margin-top: 5px;
+    }
+    .bannereight button {
+      background-color: #6666FF;
+      color: white;
+      padding: 10px;
+      width: 80px;
+      border-radius: 10px;
+      border-style: none;
+      margin-left: 200px;
+      margin-top: 5px;
+    }
